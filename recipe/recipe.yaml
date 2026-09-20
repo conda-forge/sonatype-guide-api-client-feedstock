@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "1.202609.0"
+  version: "1.202609.1"
   python_check_max: "3.14"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sonatype-guide-api-client/sonatype_guide_api_client-${{ version }}.tar.gz
-  sha256: b9ad917274b667cc603f59814192339062609c17959ba10de1eccd251f036317
+  sha256: 684cd4ea715bc31afad2d7161767977b9d0db82b3bc1cdf08838b6a63eec5a60
 
 build:
   number: 0
